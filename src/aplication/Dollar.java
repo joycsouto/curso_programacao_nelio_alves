@@ -4,7 +4,7 @@ import util.CurrencyConverter;
 
 import java.util.Scanner;
 
-public class dolar {
+public class Dollar {
     public static void main(String[] args) {
         CurrencyConverter currencyConverter = new CurrencyConverter();
         Scanner scanner = new Scanner(System.in);
