@@ -7,9 +7,7 @@ import java.util.Scanner;
 public class ServicosBancarios {
 
     Scanner scanner = new Scanner(System.in);
-    int numeroConta;
-    String nomeTitular;
-    double saldo;
+
 
     public Titular coletarDados() {
         System.out.print("Número da conta: ");
